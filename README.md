@@ -15,6 +15,10 @@
 <!-- **Metacognition** is a foundational component of intelligence that has become increasingly recognized as a cornerstone of capable, transparent AI systems in recent years. It is critical to effective learning, problem solving, decision-making, communication, and more. Yet while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems.  -->
 
 This repository provides an organized collection of papers related to metacognition in LLMs, reviewed in our survey [Metacognition in LLMs: Foundations, Progress, and Opportunities](). We comprehensively and systematically taxonomize the landscape of this emerging field, summarizing existing methods and benchmarks to measure and elicit LLMs' metacognitive abilities, techniques to develop, improve, and apply models' metacognitive skills, and findings and implications of ongoing research. We also discuss applications, open challenges, and promising directions for future work. We hope this can serve as a detailed, up-to-date reference and stimulate meaningful research and discussion.
+<!-- 
+## 🎉 Updates
+- 2026/XX/XX Our paper is available on [arXiv]()!
+- 2026/05/22 We created this reading list repository. -->
 
 ## 🌟 Citation
 
@@ -46,7 +50,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
     - [Metacognition for LLMs](#metacognition-for-llms)
     - [Metacognition for Reasoning Models](#metacognition-for-reasoning-models)
     - [Metacognition for LLM Agents](#metacognition-for-llm-agents)
-- [4🚀 . Metacognitive Methods to Improve Capabilities of LLMs](#4-metacognitive-methods-to-improve-capabilities-of-llms)
+- [🚀 4. Metacognitive Methods to Improve Capabilities of LLMs](#4-metacognitive-methods-to-improve-capabilities-of-llms)
     - [General Capabilities](#general-capabilities)
     - [Confidence Calibration](#confidence-calibration)
     - [Hallucination Detection](#hallucination-reduction)
@@ -129,7 +133,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 📊 2. Current Findings on Metacognition in LLMs
+### 📊 2. Current Findings on Metacognition in LLMs 
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
@@ -175,7 +179,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 <!-- ### 4. Applying Metacognition to Improve Capabilities of LLMs -->
-### 4. Metacognitive Methods to Improve Capabilities of LLMs
+### 🚀 4. Metacognitive Methods to Improve Capabilities of LLMs
 
 #### General Capabilities
 
@@ -248,7 +252,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 5. Applications of LLM Metacognition
+### 🚢 5. Applications of LLM Metacognition
 
 #### Human-AI Decision-Making
 
@@ -271,14 +275,14 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 6. Broader Directions
+### 🌱 6. Broader Directions
 
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 7. Other Resources
+### 📚 7. Other Resources
 
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
@@ -334,6 +338,3 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
   - [Information Seeking Module](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#information-seeking-module)
 - [Other Resources](https://github.com/RUC-NLPIR/LLM4IR-Survey/tree/main#other-resources) -->
 
-<!-- ## 🔥 Latest News -->
-<!-- - **[2026-XX-XX]** Our paper is available on arXiv! Check it out [here](https://arxiv.org/abs/2601.14004). -->
-<!-- - **[2026-06-01]** This repository is created to track the latest progress on metacognition in LLMs. -->
