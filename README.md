@@ -1,9 +1,10 @@
-<h1 align="center"> 🔎 Metacognition in LLMs: <br>Foundations, Progress, and Opportunities </h1>
+<h1 align="center"> 🧠 Metacognition in LLMs: <br>Foundations, Progress, and Opportunities </h1>
 
 <div align="center">
 
 [![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yale-nlp/LLM-Metacognition/paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-XXXX-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx) 
 
+<!-- [![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/yale-nlp/LLM-Metacognition?style=social)](https://github.com/yale-nlp/LLM-Metacognition/stargazers)
 
@@ -32,20 +33,20 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 ## 📖 Table of Contents
 <!-- - [🚀 Overview](#-overview) -->
 <!-- - [📄 Paper List](#-paper-list) -->
-- [0. Metacognition Background](#0-metacognition-background)
-- [1. Measuring Metacognition in LLMs](#1-measuring-metacognition-in-llms)
+- [0. 🧠 Metacognition Background](#0-metacognition-background)
+- [1. 🔎 Measuring Metacognition in LLMs](#1-measuring-metacognition-in-llms)
     - [Psychologically-Grounded Methods](#psychologically-grounded-methods)
     - [Neurofeedback-Based Methods](#neurofeedback-based-methods)
     - [Confidence-Based Methods](#confidence-based-methods)
     - [Interpretability-Based Methods](#interpretability-based-methods)
     - [Task-Specific Methods](#task-specific-methods)
     - [Benchmarks](#benchmarks)
-- [2. Current Findings on Metacognition in LLMs](#2-current-findings-on-metacognition-in-llms)
-- [3. Implementing Metacognition in LLMs](#3-implementing-metacognition-in-llms)
+- [2. 📊 Current Findings on Metacognition in LLMs](#2-current-findings-on-metacognition-in-llms)
+- [3. 🛠️ Implementing Metacognition in LLMs](#3-implementing-metacognition-in-llms)
     - [Metacognition for LLMs](#metacognition-for-llms)
     - [Metacognition for Reasoning Models](#metacognition-for-reasoning-models)
     - [Metacognition for LLM Agents](#metacognition-for-llm-agents)
-- [4. Metacognitive Methods to Improve Capabilities of LLMs](#4-metacognitive-methods-to-improve-capabilities-of-llms)
+- [4. 🚀 Metacognitive Methods to Improve Capabilities of LLMs](#4-metacognitive-methods-to-improve-capabilities-of-llms)
     - [General Capabilities](#general-capabilities)
     - [Confidence Calibration](#confidence-calibration)
     - [Hallucination Detection](#hallucination-reduction)
@@ -56,18 +57,19 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
     - [Retrieval](#retrieval)
     - [Self-Improvement](#self-improvement)
     - [Other Abilities](#other-abilities)
-- [5. Applications of LLM Metacognition](#5-applications-of-llm-metacognition)
+- [5. 🚢 Applications of LLM Metacognition](#5-applications-of-llm-metacognition)
     - [Human-AI Decision-Making](#human-ai-decision-making)
     - [User Simulation](#user-simulation)
     - [Pedagogy](#pedagogy)
-- [6. Broader Directions](#6-broader-directions)
-- [7. Other Resources](#7-other-resources)
+- [6. 🌱 Broader Directions](#6-broader-directions)
+- [7. 📚 Other Resources](#7-other-resources)
 <!-- - [Contact](#-contact) -->
 
+<!-- 🛸 🔭 🗂️-->
 
 ## 📄 Paper List
 
-### 0. Metacognition Background
+### 🧠 0. Metacognition Background
 
 > **Metacognition** is a foundational component of intelligence that is critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems.
 
@@ -82,7 +84,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
-### 1. Measuring Metacognition in LLMs
+### 🔎 1. Measuring Metacognition in LLMs 
 
 <!-- while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems.  -->
 
@@ -127,7 +129,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 2. Current Findings on Metacognition in LLMs
+### 📊 2. Current Findings on Metacognition in LLMs
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
@@ -147,7 +149,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
-### 3. Implementing Metacognition in LLMs
+### 🛠️ 3. Implementing Metacognition in LLMs
 
 #### _Metacognition for LLMs_
 
