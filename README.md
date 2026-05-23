@@ -2,8 +2,9 @@
 
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yale-nlp/LLM-Metacognition/paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-XXXX-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx)
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yale-nlp/LLM-Metacognition/paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-XXXX-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx) 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/yale-nlp/LLM-Metacognition?style=social)](https://github.com/yale-nlp/LLM-Metacognition/stargazers)
 
 </div>
