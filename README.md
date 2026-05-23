@@ -70,215 +70,217 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 > **Metacognition** is a foundational component of intelligence that is critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems.
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
 ### 1. Measuring Metacognition in LLMs
 
+<!-- while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems.  -->
+
 #### _Psychologically-Grounded Methods_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+100. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### _Neurofeedback-Based Methods_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### _Confidence-Based Methods_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### _Interpretability-Based Methods_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### _Task-Specific Methods_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### _Benchmarks_
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 ### 2. Current Findings on Metacognition in LLMs
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 ### 3. Implementing Metacognition in LLMs
 
 #### _Metacognition for LLMs_
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
 #### _Metacognition for Reasoning Models_
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
 #### _Metacognition for LLM Agents_
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 <!-- ### 4. Applying Metacognition to Improve Capabilities of LLMs -->
 ### 4. Metacognitive Methods to Improve Capabilities of LLMs
 
 #### General Capabilities
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Confidence Calibration
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Hallucination Reduction
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Knowledge Boundary Detection
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Resistance to Persuasion
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Interpretability
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Reasoning for Non-Reasoning Models
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Retrieval
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
 #### Self-Improvement
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Other Abilities
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 ### 5. Applications of LLM Metacognition
 
 #### Human-AI Decision-Making
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### User Simulation
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 #### Pedagogy
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 ### 6. Broader Directions
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 ### 7. Other Resources
 
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
-1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
+1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.585.pdf)\]
 
 
 <!-- ## 🚀 Update Log
