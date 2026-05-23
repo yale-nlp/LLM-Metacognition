@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yale-nlp/LLM-Metacognition/paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2601.14004v1-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx)
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/yale-nlp/LLM-Metacognition/paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-XXXX-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx)
 
-[![GitHub stars](https://img.shields.io/github/stars/rattlesnakey/Awesome-Actionable-MI-Survey?style=social)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yale-nlp/LLM-Metacognition?style=social)](https://github.com/yale-nlp/LLM-Metacognition/stargazers)
 
 </div>
 
 <!-- This repository contains an organized collection of papers related to metacognition in large language xmodels (LLMs). These papers are organized according to our paper [Metacognition in LLMs: Foundations, Progress, and Opportunities](link). -->
 
-**Metacognition** is a foundational component of intelligence that has become increasingly recognized as a cornerstone of capable, transparent AI systems in recent years. It is critical to effective learning, problem solving, decision-making, communication, and more. Yet while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. 
+<!-- **Metacognition** is a foundational component of intelligence that has become increasingly recognized as a cornerstone of capable, transparent AI systems in recent years. It is critical to effective learning, problem solving, decision-making, communication, and more. Yet while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems.  -->
 
 This repository provides an organized collection of papers related to metacognition in LLMs, reviewed in our survey [Metacognition in LLMs: Foundations, Progress, and Opportunities](). We comprehensively and systematically taxonomize the landscape of this emerging field, summarizing existing methods and benchmarks to measure and elicit LLMs' metacognitive abilities, techniques to develop, improve, and apply models' metacognitive skills, and findings and implications of ongoing research. We also discuss applications, open challenges, and promising directions for future work. We hope this can serve as a detailed, up-to-date reference and stimulate meaningful research and discussion.
 
@@ -23,7 +23,7 @@ Coming soon!
 ```
 
 ## 📧 Contact
-Feel free to open an issue or contact us if you have any questions or want to include your work in this list!
+Feel free to open an issue or contact us if you have any feedback or want to include your work in this list!
 
 Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
@@ -55,7 +55,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
     - [Retrieval](#retrieval)
     - [Self-Improvement](#self-improvement)
     - [Other Abilities](#other-abilities)
-- [5. Applications](#5-applications)
+- [5. Applications of LLM Metacognition](#5-applications-of-llm-metacognition)
     - [Human-AI Decision-Making](#human-ai-decision-making)
     - [User Simulation](#user-simulation)
     - [Pedagogy](#pedagogy)
@@ -240,7 +240,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
 1. **Query2doc: Query Expansion with Large Language Models**, _Wang et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2303.07678.pdf)\]
 
-### 5. Applications
+### 5. Applications of LLM Metacognition
 
 #### Human-AI Decision-Making
 
