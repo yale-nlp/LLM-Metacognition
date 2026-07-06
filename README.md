@@ -79,7 +79,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 </p>
 
 <p align="center">
-<em><b>Taxonomy of current research on metacognition in LLMs, as organized in our <a href="https://arxiv.org/pdf/YOUR_ARXIV_ID">paper</a>.</b><br>Metacognition describes the capacity for a system to assess and regulate its own cognition. The metacognitive loop consists of two interacting processes: <i>monitoring</i> (e.g., forming judgments of uncertainty, task performance, and progress, among other internal states) and <i>control</i> (e.g., engaging in planning, strategy selection, or effort re-allocation based on monitoring).</em>
+<em><b>Taxonomy of current research on metacognition in LLMs, as organized in our <a href="https://arxiv.org/pdf/YOUR_ARXIV_ID" target="_blank">paper</a>.</b><br>Metacognition describes the capacity for a system to assess and regulate its own cognition. The metacognitive loop consists of two interacting processes: <i>monitoring</i> (e.g., forming judgments of uncertainty, task performance, and progress, among other internal states) and <i>control</i> (e.g., engaging in planning, strategy selection, or effort re-allocation based on monitoring).</em>
 </p>
 
 ## 📄 Paper List
