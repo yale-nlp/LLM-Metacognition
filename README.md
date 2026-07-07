@@ -243,7 +243,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 171. **MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**, _Liu et al._, EMNLP 2025. \[[Paper](https://aclanthology.org/2025.emnlp-main.1505/)\]
 1. **Can LLMs Use Linguistic Uncertainty Markers to Reliably Reflect Intrinsic Confidence?** _Liu and Cohan_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.28778)\]
 1. **Quantifying Faithful Confidence Expression in Large Reasoning Models**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.03969)\]
-1. ***Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
+1. **Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
 249. **Metacognition and Uncertainty Communication in Humans and Large Language Models**, _Steyvers and Peters_, Current Directions in Psychological Science 2025. \[[Paper](https://doi.org/10.1177/09637214251391158)\]
 251. **What Large Language Models Know and What People Think They Know**, _Steyvers et al._, Nature Machine Intelligence 2025. \[[Paper](https://doi.org/10.1038/s42256-024-00976-7)\]
 111. **Metacognitive Monitoring: A Human Ability Beyond Generative Artificial Intelligence**, _Huff and Ulakci_, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2410.13392)\]
@@ -370,7 +370,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Confidence Calibration_
 
-194. ***Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
+194. **Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
 171. **MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**, _Liu et al._, EMNLP 2025. \[[Paper](https://aclanthology.org/2025.emnlp-main.1505/)\]
 196. **Improving Metacognition and Uncertainty Communication in Language Models**, _Steyvers et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2510.05126)\]
 
