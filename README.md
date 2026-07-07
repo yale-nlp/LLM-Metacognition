@@ -65,7 +65,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
     - [User Simulation](#user-simulation)
     - [Pedagogy](#pedagogy)
 - [🌱 6. Broader Directions](#6-broader-directions)
-    - [Metacognition & AI](#mcai)
+    - [AI Metacognition](#mcai)
     - [Creativity](#creativity)
     - [Self-Improvement ](#selfimprov)
     - [Meta-Metacognition & Theory of Mind](#mmc)
@@ -513,7 +513,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 <a name="mcai"></a>
 
-#### _Metacognition & AI_
+#### _AI Metacognition_
 
 271. **Toward Artificial Metacognition**, _Shakarian_, AAAI 2026. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42135/46096)\]
 123. **No Reliable Evidence of Self-Reported Sentience in Small Large Language Models**, _Kaiser and Enderby_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.15334)\]
