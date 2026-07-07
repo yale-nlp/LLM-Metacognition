@@ -168,7 +168,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 #### _Connections to AI_
 59. **Modeling Metacognition for Learning in Artificial Systems**, _Josyula et al._, NaBIC 2009. \[[Paper](https://doi.org/10.1109/NABIC.2009.5393706)\]
 127. **From Internal Models Toward Metacognitive AI**, _Kawato and Cortese_, Biological Cybernetics 2021. \[[Paper](https://doi.org/10.1007/s00422-021-00904-7)\]
-16. **Fast, Slow, and Metacognitive Thinking in AI**, _Bergamaschi Ganapini et al._, npj Artificial Intelligence 2025. \[[Paper](https://doi.org/10.1038/s44387-025-00027-5)\]
+16. **Fast, Slow, and Metacognitive Thinking in AI**, _Ganapini et al._, npj Artificial Intelligence 2025. \[[Paper](https://doi.org/10.1038/s44387-025-00027-5)\]
 
 <a name="1-measuring-metacognition-in-llms"></a>
 
