@@ -123,17 +123,19 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 185. **A Signal Detection Theoretic Approach for Estimating Metacognitive Sensitivity from Confidence Ratings**, _Maniscalco and Lau_, Consciousness and Cognition 2012. \[[Paper](https://doi.org/10.1016/j.concog.2011.09.021)\]
 13. **Measures of Metacognition on Signal-Detection Theoretic Models**, _Barrett et al._, Psychological Methods 2013. \[[Paper](https://doi.org/10.1037/a0033268)\]
 82. **How to Measure Metacognition**, _Fleming and Lau_, Frontiers in Human Neuroscience 2014. \[[Paper](https://doi.org/10.3389/fnhum.2014.00443)\]
+319. **Metacognitive Information Theory**, _Dayan_, Open Mind 2023. \[[Paper](https://doi.org/10.1162/opmi_a_00091)\]
 319. **Common Computations for Metacognition and Meta-Metacognition**, _Zheng et al._, Neuroscience of Consciousness 2023. \[[Paper](https://doi.org/10.1093/nc/niad023)\]
+319. **Information-Theoretic Measures of Metacognition: Bounds and Relation to Group Performance**, _Meyen et al._, Open Mind 2025. \[[Paper](https://doi.org/10.1162/OPMI.a.40)\]
 
 #### _Connections to Consciousness_
-25. **Metacognition and Consciousness**, _Newton_, Pragmatics & Cognition 1995. \[[Paper](https://doi.org/10.1075/pc.3.2.08new)\]
+27. **Metacognition and Consciousness**, _Newton_, Pragmatics & Cognition 1995. \[[Paper](https://doi.org/10.1075/pc.3.2.08new)\]
 136. **Conscious and Unconscious Metacognition: A Rejoinder**, _Koriat and Levy-Sadot_, Consciousness and Cognition 2000. \[[Paper](https://doi.org/10.1006/ccog.2000.0436)\]
 223. **Consciousness and Metacognition**, _Rosenthal_, Metarepresentation (Book Chapter) 2000. \[[Paper](https://doi.org/10.1093/oso/9780195141146.003.0010)\]
 32. **Metacognition in Strategy Selection: Giving Consciousness Too Much Credit**, _Cary and Reder_, Metacognition: Process, Function and Use (Book Chapter) 2002. \[[Paper](https://doi.org/10.1007/978-1-4615-1099-4_5)\]
 286. **Consciousness, Metacognition, and the Unconscious**, _Winkielman and Schooler_, The Sage Handbook of Social Cognition 2012. \[[Paper](https://doi.org/10.4135/9781446247631.n4)\]
 
 #### _Confidence, Decisions, & Other Findings_
-30. **A Revised Methodology for Research on Metamemory: Pre-Judgment Recall and Monitoring (PRAM)**, _Nelson et al._, Psychological Methods 2004. \[[Paper](https://doi.org/10.1037/1082-989X.9.1.53)\]
+32. **A Revised Methodology for Research on Metamemory: Pre-Judgment Recall and Monitoring (PRAM)**, _Nelson et al._, Psychological Methods 2004. \[[Paper](https://doi.org/10.1037/1082-989X.9.1.53)\]
 7. **Logic, Self-Awareness and Self-Improvement: The Metacognitive Loop and the Problem of Brittleness**, _Anderson and Perlis_, Journal of Logic and Computation 2005. \[[Paper](https://doi.org/10.1093/logcom/exh034)\]
 231. **Competence and Control Beliefs: Distinguishing the Means and Ends**, _Schunk and Zimmerman_, Handbook of Educational Psychology 2006. \[[Paper](https://www.routledgehandbooks.com/doi/10.4324/9780203874790.ch16)\]
 66. **The Dunning–Kruger Effect: On Being Ignorant of One's Own Ignorance**, _Dunning_, Advances in Experimental Social Psychology 2011. \[[Paper](https://doi.org/10.1016/B978-0-12-385522-0.00005-6)\]
@@ -147,7 +149,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 75. **Bits of Confidence: Metacognition as Uncertainty Reduction**, _Fitousi_, Psychonomic Bulletin & Review 2025. \[[Paper](https://doi.org/10.3758/s13423-025-02752-z)\]
 
 #### _Education & Learning_
-42. **A Metacognitive View of Individual Differences in Self-Regulated Learning**, _Winne_, Learning and Individual Differences 1996. \[[Paper](https://doi.org/10.1016/S1041-6080(96)90022-9)\]
+44. **A Metacognitive View of Individual Differences in Self-Regulated Learning**, _Winne_, Learning and Individual Differences 1996. \[[Paper](https://doi.org/10.1016/S1041-6080(96)90022-9)\]
 191. **Motivational Skills Training: Combining Metacognitive, Cognitive, and Affective Learning Strategies**, _McCombs_, Learning and Study Strategies (Book Chapter) 1988. \[[Paper](https://doi.org/10.1016/B978-0-12-742460-6.50015-3)\]
 229. **Promoting General Metacognitive Awareness**, _Schraw_, Instructional Science 1998. \[[Paper](https://dohttps://doi.org/10.1023/A:1003044231033)\]
 139. **Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments**, _Kruger and Dunning_, Journal of Personality and Social Psychology 1999. \[[Paper](https://doi.org/10.1037/0022-3514.77.6.1121)\]
@@ -166,7 +168,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 288. **Experiencing Hallucinations in Daily Life: The Role of Metacognition**, _Wright et al._, Schizophrenia Research 2024. \[[Paper](https://doi.org/10.1016/j.schres.2022.12.023)\]
 
 #### _Connections to AI_
-59. **Modeling Metacognition for Learning in Artificial Systems**, _Josyula et al._, NaBIC 2009. \[[Paper](https://doi.org/10.1109/NABIC.2009.5393706)\]
+61. **Modeling Metacognition for Learning in Artificial Systems**, _Josyula et al._, NaBIC 2009. \[[Paper](https://doi.org/10.1109/NABIC.2009.5393706)\]
 127. **From Internal Models Toward Metacognitive AI**, _Kawato and Cortese_, Biological Cybernetics 2021. \[[Paper](https://doi.org/10.1007/s00422-021-00904-7)\]
 16. **Fast, Slow, and Metacognitive Thinking in AI**, _Ganapini et al._, npj Artificial Intelligence 2025. \[[Paper](https://doi.org/10.1038/s44387-025-00027-5)\]
 
@@ -179,7 +181,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 <a name="psychologically-grounded-methods"></a>
 
 #### _Psychologically-Grounded Methods_
-62. **Measuring the Metacognition of AI**, _Servajean and Servajean_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.29693)\]
+64. **Measuring the Metacognition of AI**, _Servajean and Servajean_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.29693)\]
 267. **Metacognitive Sensitivity for Test-Time Dynamic Model Selection**, _Trinh et al._, CogInterp Workshop 2026. \[[Paper](https://openreview.net/pdf?id=wROFSZZXu9)\]
 112. **Judgments of Learning Distinguish Humans from Large Language Models in Predicting Memory**, _Huff and Ulakci_, Scientific Reports 2025. \[[Paper](https://doi.org/10.1038/s41598-025-22290-x)\]
 234. **Do LLMs Dream of Electric Emotions? Towards Quantifying Metacognition and Generalizing the Teacher-Student Model Using Ensembles of LLMs**, _Sethi et al._, CIKM 2025. \[[Paper](https://doi.org/10.1145/3746252.3760839)\]
@@ -190,26 +192,26 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 <a name="neurofeedback-based-methods"></a>
 
 #### _Neurofeedback-Based Methods_
-68. **Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**, _Li et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/56a225639da77e8f7c0409f6d5ba996b-Paper-Conference.pdf)\]
+70. **Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**, _Li et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/56a225639da77e8f7c0409f6d5ba996b-Paper-Conference.pdf)\]
 296. **Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models**, _Yalon et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.02467)\]
 
 <a name="confidence-based-methods"></a>
 
 #### _Confidence-Based Methods_
-70. **Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models**, _Lu et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/ee0e336e2423430ef86071300299e074-Paper-Conference.pdf)\]
+72. **Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models**, _Lu et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/ee0e336e2423430ef86071300299e074-Paper-Conference.pdf)\]
 72. **Large Language Models Have Intrinsic Meta-Cognition, but Need a Good Lens**, _Ma et al._, EMNLP 2025. \[[Paper](https://aclanthology.org/2025.emnlp-main.171/)\]
 
 <a name="interpretability-based-methods"></a>
 
 #### _Interpretability-Based Methods_
-72. **Towards Understanding Metacognition in Large Reasoning Models**, _Li et al._, OpenReview 2026. \[[Paper](https://openreview.net/pdf?id=JGG9EdHyZc)\]
+74. **Towards Understanding Metacognition in Large Reasoning Models**, _Li et al._, OpenReview 2026. \[[Paper](https://openreview.net/pdf?id=JGG9EdHyZc)\]
 169. **Emergent Introspective Awareness in Large Language Models**, _Lindsey_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.01828)\]
 158. **Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**, _Li et al._, ACL 2025. \[[Paper](https://aclanthology.org/2025.acl-long.655/)\]
 
 <a name="task-specific-methods"></a>
 
 #### _Task-Specific Methods_
-75. **Evidence for Limited Metacognition in LLMs**, _Ackerman_, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2509.21545)\]
+77. **Evidence for Limited Metacognition in LLMs**, _Ackerman_, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2509.21545)\]
 15. **Large Linguistic Models: Investigating LLMs' Metalinguistic Abilities**, _Begus et al._, IEEE Transactions on Artificial Intelligence 2025. \[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11022724)\]
 53. **Does It Make Sense to Speak of Introspection in Large Language Models?**, _Comsa and Shanahan_, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2506.05068)\]
 213. **When Two LLMs Debate, Both Think They'll Win**, _Prasad and Nguyen_, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.19184)\]
@@ -219,7 +221,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 <a name="benchmarks"></a>
 
 #### _Benchmarks_
-81. **The metacognitive monitoring battery: A cross-domain benchmark for LLM self-monitoring**, _Cacioli et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2604.15702)\]
+83. **The metacognitive monitoring battery: A cross-domain benchmark for LLM self-monitoring**, _Cacioli et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2604.15702)\]
 118. **Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs**, _Fan et al._, The Web Conference 2026. \[[Paper](https://doi.org/10.1145/3774904.3792531)\]
 48. **Me, Myself, and π : Evaluating and Explaining LLM Introspection**, _Naphade et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2603.20276)\]
 95. **Large Language Models Lack Essential Metacognition for Reliable Medical Reasoning**, _Griot et al._, Nature Communications 2025. \[[Paper](https://doi.org/10.1038/s41467-024-55628-6)\]
@@ -230,7 +232,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 <a name="2-current-findings-on-metacognition-in-llms"></a>
 
 ### 📊 2. Current Findings on Metacognition in LLMs 
-88. **Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**, _Li et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/56a225639da77e8f7c0409f6d5ba996b-Paper-Conference.pdf)\]
+90. **Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**, _Li et al._, NeurIPS 2026. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/56a225639da77e8f7c0409f6d5ba996b-Paper-Conference.pdf)\]
 169. **Emergent Introspective Awareness in Large Language Models**, _Lindsey_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.01828)\]
 25. **Emergent Mechanisms of Self-Awareness in LLMs**, _Bozoukov et al._, XAI4Science Workshop (NeurIPS) 2025. \[[Paper](https://openreview.net/pdf?id=6GGhnrQ2EV)\]
 100. **Looking Inward: Language Models Can Learn About Themselves by Introspection**, _Binder et al._, ICLR 2025. \[[Paper](https://openreview.net/forum?id=eb5pkwIB5i)\]
@@ -291,7 +293,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Metacognition for LLMs_
 
-140. **Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs**, _Fan et al._, The Web Conference 2026. \[[Paper](https://doi.org/10.1145/3774904.3792531)\]
+142. **Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs**, _Fan et al._, The Web Conference 2026. \[[Paper](https://doi.org/10.1145/3774904.3792531)\]
 209. **Fine-Tuning Language Models to Know What They Know**, _Park et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.02605)\]
 162. **State Stream Transformer (SST): Emergent Metacognitive Behaviours Through Latent State Persistence**, _Aviss_, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2501.18356)\]
 37. **Pangu Embedded: An Efficient Dual-System LLM Reasoner with Metacognition**, _Chen et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.22375)\]
@@ -310,7 +312,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Metacognition for Reasoning Models_
 
-154. **PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection**, _Cheng et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2604.05424)\]
+156. **PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection**, _Cheng et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2604.05424)\]
 150. **Finding RELIEF: Shaping Reasoning Behavior Without Reasoning Supervision via Belief Engineering**, _Leong et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.13752)\]
 48. **Enhancing LLM Metacognition via Cognitive Pairwise Training**, _Li et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.00869)\]
 154. **Towards Understanding Metacognition in Large Reasoning Models**, _Li et al._, OpenReview 2026. \[[Paper](https://openreview.net/pdf?id=JGG9EdHyZc)\]
@@ -330,7 +332,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Metacognition for LLM Agents_
 
-169. **To Retrieve or To Think? An Agentic Approach for Context Evolution**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.08747)\]
+171. **To Retrieve or To Think? An Agentic Approach for Context Evolution**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.08747)\]
 104. **Learn Like Humans: Use Meta-Cognitive Reflection for Efficient Self-Improvement**, _Hou et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.11974)\]
 166. **Learning How to Remember: A Meta-Cognitive Management Method for Structured and Transferable Agent Memory**, _Liang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.07470)\]
 167. **Deep Reasoning in General Purpose Agents via Structured Meta-Cognition**, _Light et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.11388)\]
@@ -360,7 +362,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _General Capabilities_
 
-189. **MP: Endowing Large Language Models with Lateral Thinking**, _Bai et al._, AAAI 2025. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34514)\]
+191. **MP: Endowing Large Language Models with Lateral Thinking**, _Bai et al._, AAAI 2025. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34514)\]
 178. **Eliciting Metaknowledge in Large Language Models**, _Longo et al._, Cognitive Systems Research 2025. \[[Paper](https://doi.org/10.1016/j.cogsys.2025.101352)\]
 257. **Tuning-Free Accountable Intervention for LLM Deployment – A Metacognitive Approach**, _Tan et al._, AAAI 2025. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34710)\]
 191. **Self-Reflection in Large Language Model Agents: Effects on Problem-Solving Performance**, _Renze and Guven_, FLLM 2024. \[[Paper](https://doi.org/10.1109/FLLM63129.2024.10852426)\]
@@ -370,7 +372,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Confidence Calibration_
 
-194. **Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
+196. **Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2606.32032)\]
 171. **MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**, _Liu et al._, EMNLP 2025. \[[Paper](https://aclanthology.org/2025.emnlp-main.1505/)\]
 196. **Improving Metacognition and Uncertainty Communication in Language Models**, _Steyvers et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2510.05126)\]
 
@@ -378,7 +380,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Hallucination Reduction_
 
-197. **Hallucinations Undermine Trust; Metacognition Is a Way Forward**, _Yona et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.01428)\]
+199. **Hallucinations Undermine Trust; Metacognition Is a Way Forward**, _Yona et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2605.01428)\]
 195. **Step-By-Step Reasoning with Meta Cognitive Prompts to Reduce Contextual Hallucination**, _Miki and Vincent_, CHI HEAL Workshop 2025. \[[Paper](https://heal-workshop.github.io/chi2025_papers/8_Step_By_Step_Reasoning_with_.pdf)\]
 199. **Teach Large Language Models the Concept of Meta-Cognition to Reduce Hallucination Text Generation**, _Li_, OpenReview 2024. \[[Paper](https://openreview.net/pdf?id=pPvK2e8o8M)\]
 
@@ -386,7 +388,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Knowledge Boundary Detection_
 
-200. **Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.12996)\]
+202. **Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.12996)\]
 106. **Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions**, _Huang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.13590)\]
 264. **Self-Aware Language Models: A Taxonomy and Evaluation of Epistemic Uncertainty and Hallucination Mitigation**, _Tiwari and Gupta_, Research Square 2026. \[[Paper](https://doi.org/10.21203/rs.3.rs-8589677/v1)\]
 202. **Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning**, _Lv et al._, ACL Findings 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.999/)\]
@@ -398,20 +400,20 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Resistance to Persuasion_
 
-207. **Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions**, _Huang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.13590)\]
+209. **Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions**, _Huang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.13590)\]
 
 <a name="interpretability"></a>
 
 #### _Interpretability_
 
-208. **Self-Interpretability: LLMs Can Describe Complex Internal Processes That Drive Their Decisions**, _Plunkett et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.17120)\]
+210. **Self-Interpretability: LLMs Can Describe Complex Internal Processes That Drive Their Decisions**, _Plunkett et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.17120)\]
 210. **The Metacognitive Demands and Opportunities of Generative AI**, _Tankelevitch et al._, CHI 2024. \[[Paper](https://dl.acm.org/doi/10.1145/3613904.3642902)\]
 
 <a name="reasoning-for-non-reasoning-models"></a>
 
 #### _Reasoning for Non-Reasoning Models_
 
-210. **Think²: Grounded Metacognitive Reasoning in Large Language Models**, _Elenjical et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.18806)\]
+212. **Think²: Grounded Metacognitive Reasoning in Large Language Models**, _Elenjical et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.18806)\]
 73. **Probabilistic Chain-of-Evidence: Enhancing Factual Accuracy and Uncertainty Reasoning in Large Language Models via Prompt Engineering**, _Fang and Chen_, Preprints 2026. \[[Paper](https://doi.org/10.20944/preprints202601.1471.v1)\]
 301. **Flying Pigs, FaR and Beyond: Evaluating LLM Reasoning in Counterfactual Worlds**, _Balappanawar et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.22318)\]
 212. **Meta-of-Thought: Reasoning About Reasoning in Large Language Models**, _Haque_, Authorea Preprints 2025. \[[Paper](https://doi.org/10.36227/techrxiv.175756693.33854887/v1)\]
@@ -428,7 +430,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Retrieval_
 
-222. **To Retrieve or To Think? An Agentic Approach for Context Evolution**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.08747)\]
+224. **To Retrieve or To Think? An Agentic Approach for Context Evolution**, _Chen et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.08747)\]
 224. **Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**, _Li et al._, ACL 2025. \[[Paper](https://aclanthology.org/2025.acl-long.655/)\]
 181. **Whether LLMs Know If They Know: Identifying Knowledge Boundaries via Debiased Historical In-Context Learning**, _Lv et al._, ACL Findings 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.999/)\]
 323. **Metacognitive Retrieval-Augmented Large Language Models**, _Zhou et al._, The Web Conference 2024. \[[Paper](https://dl.acm.org/doi/10.1145/3589334.3645481)\]
@@ -437,7 +439,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Self-Improvement_
 
-226. **Learn Like Humans: Use Meta-Cognitive Reflection for Efficient Self-Improvement**, _Hou et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.11974)\]
+228. **Learn Like Humans: Use Meta-Cognitive Reflection for Efficient Self-Improvement**, _Hou et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.11974)\]
 322. **Galaxy: A Cognition-Centered Framework for Proactive, Privacy-Preserving, and Self-Evolving LLM Agents**, _Bao et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2508.03991)\]
 228. **Position: Truly Self-Improving Agents Require Intrinsic Metacognitive Learning**, _Liu and Van Der Schaar_, ICML 2025. \[[Paper](https://openreview.net/forum?id=4KhDd0Ozqe)\]
 219. **Recursive Introspection: Teaching LLM Agents How to Self-Improve**, _Qu et al._, ICML Workshop 2024. \[[Paper](https://openreview.net/forum?id=UPoQqreegH)\]
@@ -447,7 +449,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Other Abilities_
 
-231. **Could You Be Wrong: Metacognitive Prompts for Improving Human Decision Making Help LLMs Identify Their Own Biases**, _Hills_, AI (MDPI) 2026. \[[Paper](https://doi.org/10.3390/ai7010033)\]
+233. **Could You Be Wrong: Metacognitive Prompts for Improving Human Decision Making Help LLMs Identify Their Own Biases**, _Hills_, AI (MDPI) 2026. \[[Paper](https://doi.org/10.3390/ai7010033)\]
 267. **Metacognitive Sensitivity for Test-Time Dynamic Model Selection**, _Trinh et al._, CogInterp Workshop 2026. \[[Paper](https://openreview.net/pdf?id=wROFSZZXu9)\]
 311. **MetaGDPO: Alleviating Catastrophic Forgetting with Metacognitive Knowledge Through Group Direct Preference Optimization**, _Zhang et al._, AAAI 2026. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40777)\]
 146. **Pragmatic Metacognitive Prompting Improves LLM Performance on Sarcasm Detection**, _Lee et al._, CHum Workshop (ACL) 2025. \[[Paper](https://aclanthology.org/2025.chum-1.7/)\]
@@ -467,7 +469,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Human-AI Decision-Making_
 
-242. **"Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking**, _Bink et al._, CHIIR 2026. \[[Paper](https://doi.org/10.1145/3786304.3787866)\]
+244. **"Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking**, _Bink et al._, CHIIR 2026. \[[Paper](https://doi.org/10.1145/3786304.3787866)\]
 142. **Skeptical Intelligence: Refining Critical Thinking for AI-Powered Innovation**, _Ladd and Shrivastava_, SSRN 2026. \[[Paper](https://ssrn.com/abstract=6060134)\]
 308. **Does My Chatbot Have an Agenda? Understanding Human and AI Agency in Human-Human-like Chatbot Interaction**, _Yun et al._, CHI 2026. \[[Paper](https://doi.org/10.1145/3772318.3791620)\]
 52. **Metacognition and Confidence Dynamics in Advice Taking from Generative AI**, _Colombatto et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2510.26508)\]
@@ -487,7 +489,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _User Simulation_
 
-257. **Large Language Models as Students Who Think Aloud: Overly Coherent, Verbose, and Confident**, _Borchers et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.01015)\]
+259. **Large Language Models as Students Who Think Aloud: Overly Coherent, Verbose, and Confident**, _Borchers et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2602.01015)\]
 132. **Can You Share Your Story? Modeling Clients' Metacognition and Openness for LLM Therapist Evaluation**, _Kim et al._, ACL Findings 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.1332/)\]
 155. **Which Type of Students Can LLMs Act? Investigating Authentic Simulation with Graph-Based Human–AI Collaborative System**, _Li et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2502.11678)\]
 318. **Cognitive Echo: Enhancing Think-Aloud Protocols with LLM-Based Simulated Students**, _Zheng et al._, British Journal of Educational Technology 2025. \[[Paper](https://doi.org/10.1111/bjet.13590)\]
@@ -496,7 +498,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _Pedagogy_
 
-261. **Autonomous Usage of LLMs in Scenario-Based Laboratory Learning in Engineering Education**, _Boettcher_, 2025 Yearbook Emerging Technologies in Learning 2026. \[[Paper](https://doi.org/10.1007/978-3-032-09058-4_9)\]
+263. **Autonomous Usage of LLMs in Scenario-Based Laboratory Learning in Engineering Education**, _Boettcher_, 2025 Yearbook Emerging Technologies in Learning 2026. \[[Paper](https://doi.org/10.1007/978-3-032-09058-4_9)\]
 89. **Developing Metacognition Through LLM-Enhanced Writing Assignments: Critical Thinking Exercises for Scientific Writing**, _Gatzia and Wood_, The American Biology Teacher 2026. \[[Paper](https://doi.org/10.1525/abt.2026.88.1.12)\]
 102. **Reflecting in the Reflection: Integrating a Socratic Questioning Framework into Automated AI-Based Question Generation**, _Holub et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.14798)\]
 147. **Rewarding How Models Think Pedagogically: Integrating Pedagogical Reasoning and Thinking Rewards for LLMs in Education**, _Lee et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.14560)\]
@@ -515,7 +517,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 #### _AI Metacognition_
 
-271. **Toward Artificial Metacognition**, _Shakarian_, AAAI 2026. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42135/46096)\]
+273. **Toward Artificial Metacognition**, _Shakarian_, AAAI 2026. \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/42135/46096)\]
 123. **No Reliable Evidence of Self-Reported Sentience in Small Large Language Models**, _Kaiser and Enderby_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.15334)\]
 273. **Consciousness and AI: A Meta-Reflective Framework**, _Erbe_, SSRN 2025. \[[Paper](https://ssrn.com/abstract=5854902)\]
 273. **Knowing (Not) to Know: Explainable Artificial Intelligence and Human Metacognition**, _Von Zahn et al._, Information Systems Research 2025. \[[Paper](https://doi.org/10.1287/isre.2024.1431)\]
@@ -527,28 +529,28 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 <a name="creativity"></a>
 
 #### _Creativity_
-279. **Who Owns Creativity and Who Does the Work? Trade-Offs in LLM-Supported Research Ideation**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.12152)\]
+281. **Who Owns Creativity and Who Does the Work? Trade-Offs in LLM-Supported Research Ideation**, _Liu et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.12152)\]
 276. **Reflexa: Uncovering How LLM-Supported Reflection Scaffolding Reshapes Creativity in Creative Coding**, _Wang et al._, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.17769)\]
 215. **Metacognitive Feelings as a Source of Information for the Creative Process: A Conceptual Exploration**, _Puente-Diaz_, Journal of Intelligence 2023. \[[Paper](https://doi.org/10.3390/jintelligence11030049)\]
 
 <a name="selfimprov"></a>
 
 #### _Self-Improvement_
-282. **Position: Truly Self-Improving Agents Require Intrinsic Metacognitive Learning**, _Liu and Van Der Schaar_, ICML 2025. \[[Paper](https://openreview.net/forum?id=4KhDd0Ozqe)\]
+284. **Position: Truly Self-Improving Agents Require Intrinsic Metacognitive Learning**, _Liu and Van Der Schaar_, ICML 2025. \[[Paper](https://openreview.net/forum?id=4KhDd0Ozqe)\]
 312. **Agents Require Metacognitive and Strategic Reasoning to Succeed in the Coming Labor Markets**, _Zhang et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2505.20120)\]
 204. **Can LLMs Learn by Teaching for Better Reasoning? A Preliminary Study**, _Ning et al._, NeurIPS 2024. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8340b085045cf13f1f0b6c2c4cc0a89c-Paper-Conference.pdf)\]
 
 <a name="mmc"></a>
 
 #### _Meta-Metacognition & Theory of Mind_
-285. **Meta-Metacognition: Processes Underlying Judgments About Metacognition**, _Schwartz et al._, New Ideas in Psychology 2026. \[[Paper](https://doi.org/10.1016/j.newideapsych.2026.101254)\]
+286. **Meta-Metacognition: Processes Underlying Judgments About Metacognition**, _Schwartz et al._, New Ideas in Psychology 2026. \[[Paper](https://doi.org/10.1016/j.newideapsych.2026.101254)\]
 319. **Common Computations for Metacognition and Meta-Metacognition**, _Zheng et al._, Neuroscience of Consciousness 2023. \[[Paper](https://doi.org/10.1093/nc/niad023)\]
 148. **Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models**, _Leer et al._, arXiv 2023. \[[Paper](https://arxiv.org/pdf/2310.06983)\]
 
 <a name="risks"></a>
 
 #### _Risks & Ethics_
-288. **The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**, _Maynard_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.07085)\]
+290. **The AI Cognitive Trojan Horse: How Large Language Models May Bypass Human Epistemic Vigilance**, _Maynard_, arXiv 2026. \[[Paper](https://arxiv.org/pdf/2601.07085)\]
 78. **Meta-Reflective Capacities, Normative Commitments, and Responsible AI**, _Fleig-Goldstein_, arXiv 2025. \[[Paper](https://arxiv.org/abs/2501.01505)\]
 119. **Imagining and Building Wise Machines: The Centrality of AI Metacognition**, _Johnson et al._, Trends in Cognitive Sciences 2025. \[[Paper](https://doi.org/10.1016/j.tics.2026.01.002)\]
 160. **AI Awareness**, _Li et al._, arXiv 2025. \[[Paper](https://arxiv.org/pdf/2504.20084)\]
@@ -564,7 +566,7 @@ Corresponding Author: Kaili Liu (kaili.liu@yale.edu)
 
 ### 📚 7. Other Resources
 
-297. **A Survey of Uncertainty Estimation Methods on Large Language Models**, _Xia et al._, ACL Findings 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.1101.pdf)\]
+299. **A Survey of Uncertainty Estimation Methods on Large Language Models**, _Xia et al._, ACL Findings 2025. \[[Paper](https://aclanthology.org/2025.findings-acl.1101.pdf)\]
 300. **A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice**, _Huang et al._, arXiv 2024. \[[Paper](https://arxiv.org/pdf/2410.15326)\]
 
 
