@@ -14,7 +14,7 @@
 
 <!-- **Metacognition** is a foundational component of intelligence that has become increasingly recognized as a cornerstone of capable, transparent AI systems in recent years. It is critical to effective learning, problem solving, decision-making, communication, and more. Yet while LLMs have made significant progress across diverse real-world tasks, it remains unclear when, how, and to what extent they can exhibit or be endowed with effective metacognitive abilities—and how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems.  -->
 
-This repository provides an organized collection of papers related to metacognition in LLMs, reviewed in our survey [Metacognition in LLMs: Foundations, Progress, and Opportunities](). We comprehensively and systematically taxonomize the landscape of this emerging field, summarizing existing methods and benchmarks to measure and elicit LLMs' metacognitive abilities, techniques to develop, improve, and apply models' metacognitive skills, and findings and implications of ongoing research. We also discuss applications, open challenges, and promising directions for future work. We hope this can serve as a detailed, up-to-date reference and stimulate meaningful research and discussion.
+This repository provides an organized collection of papers related to metacognition in LLMs, reviewed in our paper [Metacognition in LLMs: Foundations, Progress, and Opportunities](). We comprehensively and systematically taxonomize the landscape of this emerging field, summarizing existing methods and benchmarks to measure and elicit LLMs' metacognitive abilities, techniques to develop, improve, and apply models' metacognitive skills, and findings and implications of ongoing research. We also discuss applications, open challenges, and promising directions for future work. We hope this can serve as a detailed, up-to-date reference and stimulate meaningful research and discussion.
 <!-- 
 ## 🎉 Updates
 - 2026/XX/XX Our paper is available on [arXiv]()!
@@ -22,7 +22,7 @@ This repository provides an organized collection of papers related to metacognit
 
 ## 🌟 Citation
 
-If you find this survey or repository useful for your research, please cite:
+If you find this paper or repository useful for your research, please cite:
 
 ```bibtex
 Coming soon!
